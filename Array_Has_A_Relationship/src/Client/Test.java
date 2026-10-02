@@ -15,7 +15,7 @@ public class Test {
 		
 		Data1 d1=new Data1();
 		d1.getData();
-		
+		 
 	}
 
 }
